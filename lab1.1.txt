@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head><title>AI DEPARTMENT</title></head>
+<body>
+<img src="https://kongu.ac.in/images/header2021.png" alt="Image banner" width = "630" height = "64">
+<div class="topnav-right;float:right">
+<a href="https://tbi-kec.org/">TBI@KEC</a> |
+<a href="https://rnd.kongu.edu/">R&D</a> |
+<a href="https://coe.kongu.edu/">COE</a>
+</div>
+<div style = "background: #1F367B;
+text-align:center;
+font-size:15px;
+padding: 10px;
+border: 1px gray;
+color: ghostwhite;
+width:auto;
+heigth:10px;
+margin: auto;">
+Home &nbsp;&nbsp;&nbsp;&nbsp;About Us&nbsp;&nbsp;&nbsp;&nbsp;    Programmes&nbsp;&nbsp;&nbsp;&nbsp;     Departments&nbsp;&nbsp;&nbsp;&nbsp;    Accreditation&nbsp;&nbsp;&nbsp;&nbsp;    Library&nbsp;&nbsp;&nbsp;&nbsp;     Facilities&nbsp;&nbsp;&nbsp;&nbsp;     Academic&nbsp;&nbsp;&nbsp;&nbsp;    COE&nbsp;&nbsp;&nbsp;&nbsp;    R&D&nbsp;&nbsp;&nbsp;&nbsp;   IEF&nbsp;&nbsp;&nbsp;&nbsp;    Placement&nbsp;&nbsp;&nbsp;&nbsp;   IIPC&nbsp;&nbsp;&nbsp;&nbsp;  Alumni&nbsp;&nbsp;&nbsp;&nbsp;   Online&nbsp;&nbsp;&nbsp;&nbsp;   Payment&nbsp;&nbsp;&nbsp;&nbsp;   Admission&nbsp;&nbsp;&nbsp;&nbsp;   Contact
+</div>
+<img src ="https://kongu.ac.in/departments/ai/images/header.png" alt="Ai images header" width = "1500" height="130">
+<div style = "background: #7C1FAF;
+text-align:center;
+font-size:15px;
+border: 1px gray;
+padding: 10px;
+color: ghostwhite;
+width:auto;
+heigth: 50px;
+margin:auto;">
+Home &nbsp;&nbsp;&nbsp;&nbsp;AI and ML&nbsp;&nbsp;&nbsp;&nbsp;    AI and DS&nbsp;&nbsp;&nbsp;&nbsp;     Laboratories&nbsp;&nbsp;&nbsp;&nbsp;    	Faculty&nbsp;&nbsp;&nbsp;&nbsp;    
+</div>
+<br>
+<h2 style="color:#161B3E">BTech In Artificial Intelligence and Machine Learning</h2>
+<p>Artificial Intelligence (AI) and Machine Learning (ML) is a discipline of Computer Science and Information Technology concerned with creating intelligent computers and systems that accomplish tasks that previously required human intelligence. AI and MLare beginning to infiltrate our daily lives and their potential continues to rise. Many industries like banking, finance, manufacturing, automobile, healthcare and cybersecurity are sprouting with ample opportunities for AI and ML.
+
+The AI software industry grew 54% globally in 2020 and is expected to expand over 40% every year from now through 2023. This indicates that the future of AI and ML is undoubtedly bright.
+
+Student studying this programme will be equippedwith skillsto become an innovator and will be capable of contributing to humanity at a larger extend.</p>
+<h2 style="color:#161B3E">Vision</h2>
+</div>
+<div style = "background: #ACE0FA;
+text-align:center;
+font-size:15px;
+padding: 10px;
+border: 1px gray;
+color: #A0ACB3;
+width:auto;
+heigth:auto;
+margin: auto;">
+To be a centre of excellence in the broad field of Artificial Intelligence by focusing knowledge-centric education, innovation and cutting-edge research to address the needs of industry and society.
+</div>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head><title>AI DEPARTMENT</title></head>
+<body>
+<img src="https://kongu.ac.in/images/header2021.png" alt="Image banner" width = "630" height = "64">
+<div class="topnav-right;float:right">
+<a href="https://tbi-kec.org/">TBI@KEC</a> |
+<a href="https://rnd.kongu.edu/">R&D</a> |
+<a href="https://coe.kongu.edu/">COE</a>
+</div>
+<div style = "background: #2B52C9;
+text-align:center;
+font-size:15px;
+padding: 10px;
+border: 1px gray;
+color: ghostwhite;
+width:auto;
+heigth:10px;
+margin: auto;">
+Home(current) &nbsp;&nbsp;&nbsp;About Us&nbsp;&nbsp;&nbsp;    Programmes&nbsp;&nbsp;&nbsp;     Departments&nbsp;&nbsp;&nbsp;    Accreditation&nbsp;&nbsp;&nbsp;    Library&nbsp;&nbsp;&nbsp;     Facilities&nbsp;&nbsp;&nbsp;     Academic&nbsp;&nbsp;&nbsp;    COE&nbsp;&nbsp;&nbsp;    R&D&nbsp;&nbsp;&nbsp;   IEF&nbsp;&nbsp;&nbsp;    Placement&nbsp;&nbsp;&nbsp;   IIPC&nbsp;&nbsp;&nbsp;  Alumni&nbsp;&nbsp;&nbsp;   Online&nbsp;&nbsp;&nbsp;   Payment&nbsp;&nbsp;&nbsp;   Admission&nbsp;&nbsp;&nbsp;   Contact
+</div>
+<
